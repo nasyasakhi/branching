@@ -4,4 +4,3 @@
 - Owdit
 
 Perpanjang deadline feed ISC
-Emang Bowleh?
